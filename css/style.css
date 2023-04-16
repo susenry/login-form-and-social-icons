@@ -1,0 +1,92 @@
+.Registration{
+	width: 50%;
+	margin: 05px auto;
+}
+
+.main-form{
+	width: 100%;
+	padding: 50px;
+	background: #eee;
+	border: 2px solid red;
+}
+
+.main-form img{
+	width: 100px;	
+	margin: 0px 180px;
+}
+
+.main-form h1{
+	font-size: 20px;
+	color: red;
+	text-align: center;
+}
+
+.main-form .form-group{
+	width: 100%;
+	padding: 15px;
+}
+
+.main-form .form-group input{
+	display: block;
+	font-size: 14px;
+	line height: 24px;
+
+}
+.main-form .form-control{
+	width: 60%;
+}
+
+.main-form .btn-btn{
+	padding: 15px; 40px;
+	border: 2px solid #000;
+	background: #000;
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.main-form .btn-btn:hover{
+	letter-spacing: 4px;
+	transition: 2s;
+	border: yellow;
+	border:red;
+	background: blue;
+	color: #eee;
+}
+
+.social-icons{
+	width: 100%;
+	padding: 40px 0px;
+}
+
+.social-icons .icons{
+	width: 100%;
+	display: block;
+	text-align: center;
+}
+
+.social-icons .icons li{
+	list-style: none;
+	display: inline-block;
+}
+
+.social-icons .icons li a{
+	display: block;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	font-size: 22px;
+	background: #eee;
+	margin: 0px 5px;
+	color: red;
+	border:1px solid red ;
+	border-radius: 50%;
+	transition: 1s;
+}
+
+.social-icons .icons li a:hover{
+	color: #eee;
+	background: red;
+}
